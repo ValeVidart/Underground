@@ -1,0 +1,109 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#contenuto {
+	background-image: url(../img_nw_undg/sfondo_works.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: auto;
+}
+#corporate {
+	background-image: url(../img_nw_undg/corp_ident_icon.png);
+	background-repeat: no-repeat;
+	height: 118px;
+	width: auto;
+	float: left;
+	margin-right: 200px;
+	margin-top: 200px;	
+}
+#pubblicità {
+	background-image: url(../img_nw_undg/pubblic_icon.png);
+	background-repeat: no-repeat;
+	height: 118px;
+	width: 189;
+	float: left;
+	margin-right: 200px;
+	margin-top: 200px;	
+}
+#lavori_vari {
+	background-image: url(../img_nw_undg/lavori_vari_icon.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 118px;
+	width: 189px;
+	margin-right: 200px;
+	margin-top: 200px;
+}
+#fotografia {
+	background-image: url(../img_nw_undg/fotografia_icon.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 118px;
+	width: 189px;
+	margin-top: 200px;
+	margin-right: 200px;
+}
+#illustrazione {
+	background-image: url(../img_nw_undg/ill_fume_icon.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 118px;
+	width: 189px;
+	margin-top: 200px;
+	margin-right: 200px;
+}
+#sketch {
+	background-image: url(../img_nw_undg/sketch_icon.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 118px;
+	width: 189px;
+	margin-top: 200px;
+	margin-right: 200px;
+}
+#olio {
+	background-image: url(../img_nw_undg/olio_scult_icon.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 118px;
+	width: 189px;
+	margin-top: 200px;
+	margin-right: 200px;
+}
+#ritratti {
+	background-image: url(../img_nw_undg/ritratti_icon.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 118px;
+	width: 189px;
+	margin-top: 200px;
+	margin-right: 200px;
+}
+#interno {
+	width: 950px;
+	margin-right: 30%;
+	margin-left: 30%;
+	background-position: center;
+}
+
+#interno2 {
+	float: left;
+	width: 590px;
+	margin-left: 360px;
+}
+#franco {
+	width: auto;
+	margin-left: 100px;
+	background-position: center;
+	float: no;
+}
+
+#franco li {
+	margin-right: 10px;
+	background-position: center center;
+	float: left;	
+}
+
+#franco ul {
+	list-style-type: none;
+}
